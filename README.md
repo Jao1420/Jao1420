@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é João Ricardo!
+ Olá, meu nome é João Ricardo!
 
 Sou um jovem estudante de programação, aprendo por diversão e trabalho, sou do Brasil/Manaus.
 I'm a young programming student, I learn for fun and work, I'm from Brazil/Manaus.
