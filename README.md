@@ -1,7 +1,9 @@
  Olá, meu nome é João Ricardo!
 
 Sou um jovem estudante de programação, aprendo por diversão e trabalho, sou do Brasil/Manaus.
+
 I'm a young programming student, I learn for fun and work, I'm from Brazil/Manaus.
+
 Soy un joven estudiante de programación, aprendo por diversión y trabajo, soy de Brasil/Manaus.
 
 🔭 Estou em um programa de trabalho pela Visteon Amazonas, aprendendo a  desenvolver, estilizar e desbugar sistemas -criados para a própria empresa- através disso venho me aprimorando como dev .
