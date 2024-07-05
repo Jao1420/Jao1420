@@ -5,7 +5,9 @@ I'm a young programming student, I learn for fun and work, I'm from Brazil/Manau
 Soy un joven estudiante de programación, aprendo por diversión y trabajo, soy de Brasil/Manaus.
 
 🔭 Estou em um programa de trabalho pela Visteon Amazonas, aprendendo a  desenvolver, estilizar e desbugar sistemas -criados para a própria empresa- através disso venho me aprimorando como dev .
+
 🔭 Estoy en un programa de trabajo para Visteon Amazonas, aprendiendo a desarrollar, diseñar y depurar sistemas -creados para la propia empresa- a través de esto me he ido perfeccionando como dev.
+
 🔭 I'm in a work program for Visteon Amazonas, learning how to develop, design and debug systems - created for the company itself - through this I've been improving myself as a dev.
 
 ---
