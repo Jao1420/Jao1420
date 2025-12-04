@@ -18,6 +18,9 @@ Tenho experiência como desenvolvedor full stack, atuando em todas as camadas do
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
 ---
 ## ⭐ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jao1420&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jao1420&theme=tokyonight&hide_border=true&locale=pt-br" />
+</div>
+
 > [!IMPORTANT]
 > <p align="left"><a href="mailto:ricardojoao412@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://www.linkedin.com/in/jo%C3%A3o-ricardo-b56205268/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
