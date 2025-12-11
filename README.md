@@ -47,16 +47,17 @@ Minhas principais ferramentas e tecnologias incluem:
 ### 📊 Minha Atividade no GitHub
 
 <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jao1420&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas de Sequência do GitHub" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jao1420&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas de Sequência do GitHub" />
     <br/>
-     <img src="https://pixel-profile.vercel.app/api/github-stats?username=Jao1420&theme=road_trip&screen_effect=true&avatar=https://raw.githubusercontent.com/Jao1420/Jao1420/main/img/image.png&cacheBuster=8" alt="Estatísticas Gerais do GitHub com Avatar Personalizado (Road Trip)" />
+    <img src="https://pixel-profile.vercel.app/api/github-stats?username=Jao1420&theme=road_trip&screen_effect=true&avatar=https://raw.githubusercontent.com/Jao1420/Jao1420/main/img/image.png&cacheBuster=8" alt="Estatísticas Gerais do GitHub com Avatar Personalizado (Road Trip)" />
 </div>
 
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jao1420&color=9900FF" alt="Visualizações do Perfil">
 </div>
-### 📞 Conecte-se Comigo
+
+📞 Conecte-se Comigo
 
 > [!IMPORTANT]
 > Se você tem um projeto, uma oportunidade ou apenas quer trocar uma ideia, estou disponível!
