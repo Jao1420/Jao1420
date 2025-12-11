@@ -7,7 +7,7 @@
   <tr>
     <td valign="top" width="60%">
       <p>
-        Olá! Sou <strong>João Ricardo</strong>, estudante de <strong>Engenharia de Software</strong> na Universidade Federal do Amazonas (UFAM). Sou apaixonado por transformar ideias complexas em soluções de software elegantes e funcionais.
+        Olá! Sou <strong>João Ricardo</strong>, estudante de <strong>Engenharia de Software</strong> na Universidade Federal do Amazonas (UFAM). Com uma forte inclinação para a transformação de ideias complexas em soluções de software funcionais. Atualmente, estou focado em integrar o rigor teórico da Universidade com a prática do desenvolvimento profissional, buscando aprimoramento contínuo para aplicar meus conhecimentos técnicos de forma eficaz dentro do meu ambiente de trabalho.
       </p>
     </td>
     <td valign="top" width="40%">
@@ -76,7 +76,7 @@ Acompanhe minhas contribuições recentes e meu desempenho.
 <br>
 
 <div align="center">
-    <img src="https://pixel-profile.vercel.app/api/github-stats?username=Jao1420&theme=dark_hermes&screen_effect=true" alt="Estatísticas Gerais do GitHub" />
+    <img src="https://pixel-profile.vercel.app/api/github-stats?username=Jao1420&theme=dark_hermes&screen_effect=true&avatar=https://raw.githubusercontent.com/Jao1420/Jao1420/main/img/image.png" alt="Estatísticas Gerais do GitHub" />
 </div>
 
 ---
