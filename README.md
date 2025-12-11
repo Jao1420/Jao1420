@@ -3,8 +3,18 @@
 
 # ✨ João Ricardo | Engenheiro de Software Full Stack
 
-> [!NOTE]
-> Olá! Sou **João Ricardo**, estudante de **Engenharia de Software** na Universidade Federal do Amazonas (UFAM). Sou apaixonado por transformar ideias complexas em soluções de software elegantes e funcionais.
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <p>
+        Olá! Sou <strong>João Ricardo</strong>, estudante de <strong>Engenharia de Software</strong> na Universidade Federal do Amazonas (UFAM). Sou apaixonado por transformar ideias complexas em soluções de software elegantes e funcionais.
+      </p>
+    </td>
+    <td valign="top" width="40%">
+      <img src="img/noiteLuaEscura.gif" alt="luaGIF" width="300" style="border-radius:8px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -14,23 +24,21 @@ Como **Desenvolvedor Full Stack**, atuo em todas as camadas do desenvolvimento d
 Atualmente, colaboro no ciclo completo de criação de **sistemas internos** na **Visteon (Amazonas)** através de um programa de formação profissional. Minhas responsabilidades incluem:
 * Desenvolvimento e programação de novas funcionalidades.
 * Estilização, testes de qualidade e resolução de *bugs* (bug fixing).
-
-> [!TIP]
-> Minha atuação se estende desde a **modelagem do banco de dados** até a **implementação da interface front-end**, resultando em sistemas privados e essenciais para as operações internas da empresa.
+*  Minha atuação se estende desde a **modelagem do banco de dados** até a **implementação da interface front-end**, resultando em sistemas privados e essenciais para as operações internas da empresa.
 
 ---
 
 ### 🛠️ Minhas Habilidades Técnicas
 
 Minhas principais ferramentas e tecnologias incluem:
-
+<!-- 
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | Go, PHP, JavaScript, C |
 | **Front-end** | HTML5, Bootstrap |
 | **Back-end/Runtime** | NodeJS |
 | **Banco de Dados** | MySQL |
-| **Ferramentas** | Git, Linux |
+| **Ferramentas** | Git, Linux | -->
 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a>
@@ -47,13 +55,13 @@ Minhas principais ferramentas e tecnologias incluem:
 
 ---
 
-## 🌑 Pixel Night Vibe
+<!-- ## 🌑 Pixel Night Vibe
 <div align="center">
-  <img src="[SEU_LINK_DO_GIF_AQUI]" 
+  <img src="img/noiteLuaEscura.gif" 
        alt="Pixel Art de uma Lua Crescente e seu reflexo no lago" 
        width="75%" 
        style="border-radius: 10px; border: 3px solid #9900FF; padding: 5px;">
-</div>
+</div> -->
 
 ---
 
