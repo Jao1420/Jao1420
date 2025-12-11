@@ -1,26 +1,86 @@
 
+
+
+# ✨ João Ricardo | Engenheiro de Software Full Stack
+
 > [!NOTE]
-Olá, meu nome é João Ricardo!
-Estudande de Engenharia de Software na Universidade Federal Do Amazonas.
->
-
-## Experiência
-Tenho experiência como desenvolvedor full stack, atuando em todas as camadas do desenvolvimento — desde a modelagem do banco de dados até a implementação da interface front-end. Participei do ciclo completo de criação de sistemas internos na Visteon (Amazonas), empresa na qual colaboro por meio de um programa de formação profissional. Os sistemas desenvolvidos são privados e utilizados internamente pela própria empresa, e minha atuação incluiu programação, estilização, testes e resolução de bugs.
-
+> Olá! Sou **João Ricardo**, estudante de **Engenharia de Software** na Universidade Federal do Amazonas (UFAM). Sou apaixonado por transformar ideias complexas em soluções de software elegantes e funcionais.
 
 ---
 
-## 🚀 Skills
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+### 💻 Experiência Profissional
+Como **Desenvolvedor Full Stack**, atuo em todas as camadas do desenvolvimento de software, garantindo a integração completa entre o banco de dados e a interface do usuário.
+
+Atualmente, colaboro no ciclo completo de criação de **sistemas internos** na **Visteon (Amazonas)** através de um programa de formação profissional. Minhas responsabilidades incluem:
+* Desenvolvimento e programação de novas funcionalidades.
+* Estilização, testes de qualidade e resolução de *bugs* (bug fixing).
+
+> [!TIP]
+> Minha atuação se estende desde a **modelagem do banco de dados** até a **implementação da interface front-end**, resultando em sistemas privados e essenciais para as operações internas da empresa.
+
 ---
-## ⭐ GitHub Stats
+
+### 🛠️ Minhas Habilidades Técnicas
+
+Minhas principais ferramentas e tecnologias incluem:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Go, PHP, JavaScript, C |
+| **Front-end** | HTML5, Bootstrap |
+| **Back-end/Runtime** | NodeJS |
+| **Banco de Dados** | MySQL |
+| **Ferramentas** | Git, Linux |
+
+<p align="left">
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
+</p>
+
+---
+
+## 🌑 Pixel Night Vibe
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jao1420&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img src="[SEU_LINK_DO_GIF_AQUI]" 
+       alt="Pixel Art de uma Lua Crescente e seu reflexo no lago" 
+       width="75%" 
+       style="border-radius: 10px; border: 3px solid #9900FF; padding: 5px;">
 </div>
 
+---
+
+### 📊 Minha Atividade no GitHub
+
+Acompanhe minhas contribuições recentes e meu desempenho.
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jao1420&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas de Sequência do GitHub" />
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://pixel-profile.vercel.app/api/github-stats?username=Jao1420&theme=dark_hermes&screen_effect=true" alt="Estatísticas Gerais do GitHub" />
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jao1420&color=9900FF" alt="Visualizações do Perfil">
+</div>
+### 📞 Conecte-se Comigo
+
 > [!IMPORTANT]
-> <p align="left"><a href="mailto:ricardojoao412@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://www.linkedin.com/in/jo%C3%A3o-ricardo-b56205268/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
+> Se você tem um projeto, uma oportunidade ou apenas quer trocar uma ideia, estou disponível!
+
+<p align="left">
+<a href="mailto:ricardojoao412@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a> 
+<a href="https://www.linkedin.com/in/jo%C3%A3o-ricardo-b56205268/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
