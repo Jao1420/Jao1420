@@ -8,7 +8,7 @@
       </p>
     </td>
     <td valign="top" width="40%">
-      <img src="img/fire.gif" alt="luaGIF" width="300" style="border-radius:8px;" />
+      <img src="img/chill.gif" alt="luaGIF" width="300" style="border-radius:8px;" />
     </td>
   </tr>
 </table>
