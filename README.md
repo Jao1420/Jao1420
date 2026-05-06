@@ -1,4 +1,4 @@
-# ✨ João Ricardo | Engenheiro de Software Full Stack
+# ✨ João Ricardo | Engenheiro de Software
 
 <table>
   <tr>
